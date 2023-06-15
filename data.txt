@@ -1,0 +1,2 @@
+used python version: Python 3.10.11
+used OS: Ubuntu 20.04.6 LTS
